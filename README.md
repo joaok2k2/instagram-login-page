@@ -10,7 +10,7 @@
 
 ## **Page**:
 
-![](.\img\md-photo.png)
+![](https://github.com/joaok2k2/instagram-login-page/blob/master/img/md-photo.PNG)
 
 
 
