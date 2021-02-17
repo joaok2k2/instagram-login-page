@@ -10,7 +10,7 @@
 
 ## **Page**:
 
-![](.\img\md-photo.PNG)
+![](.\img\md-photo.png)
 
 
 
